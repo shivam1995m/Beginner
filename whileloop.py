@@ -1,0 +1,1 @@
+print("India is the best country")
